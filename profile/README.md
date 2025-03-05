@@ -10,3 +10,7 @@ We are working on setting up a repository with a wiki for collaboration on rever
 
 ## Contributing
 We welcome all kinds of reverse engineering and programming knowledge! You can open a pull request or issue on any of our repositories if you have a bug to report, a suggestion to make, or a fix or feature to contribute. For code contributions, please note that all official builds of the plugin are made using Visual Studio 2022 with C++14 compatibility.
+
+The sc2kfix plugin itself is under the terms of the [MIT license](https://github.com/sc2kfix/sc2kfix/blob/main/LICENSE). The sc2k-reverse project is under the terms of the [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+
+_Please remember that SimCity 2000 is a copyrighted work of Maxis, a division of Electronic Arts. The sc2kfix project does not endorse piracy or intellectual property theft. Please do not upload any copyrighted works to any sc2kfix project repository, as this could put the legal state of the project in peril._
