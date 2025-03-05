@@ -1,4 +1,4 @@
-![](https://i.imgur.com/pHtNuSo.gif)
+![](https://i.imgur.com/lWEMFiT.gif)
 
 ## Welcome to the sc2kfix project!
 sc2kfix is a project reverse engineering SimCity 2000 Special Edition for Windows and developing a bugfix and modding plugin to patch core game and compatibility bugs as well as enabling the development of new quality of life and gameplay features. The main repository, [sc2kfix](https://github.com/sc2kfix/sc2kfix), contains the C++ source code and required binary blobs for the sc2kfix plugin itself.
